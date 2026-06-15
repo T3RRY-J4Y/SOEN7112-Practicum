@@ -1,7 +1,7 @@
-# Riverside Suburban Medical Clinic — EHR Prototype
+# Riverside Suburban Medical Clinic - EHR Prototype
 
 A fully interactive **front-end prototype** of an integrated Electronic Health Record (EHR)
-system. There is **no backend** — all data is seeded and persisted in the browser via
+system. There is **no backend** - all data is seeded and persisted in the browser via
 `localStorage`, so every screen and flow works immediately.
 
 Built with **React + Vite**, **Tailwind CSS**, **react-router-dom** and **lucide-react**.
@@ -68,5 +68,5 @@ src/
   pages/        one file per screen
 ```
 
-> This is a university assignment prototype. Credentials are mock values stored in plain
-> text on purpose — do not use real patient data.
+> This is a college practicum prototype. Credentials are mock values stored in plain
+> text on purpose - do not use real patient data.
